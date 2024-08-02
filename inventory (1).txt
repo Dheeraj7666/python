@@ -1,0 +1,4 @@
+Apple,fruit,0.5,50,2024-06-15
+Banana,fruit,0.3,30,2024-06-20
+Milk,dairy,1.5,20,2024-06-18
+Cheese,dairy,2.5,15,2024-06-25
